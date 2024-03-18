@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "AI & Robot Vision Lab"
 description              : # 
 url                      : https://airvlab.github.io # "https://www.csc.liv.ac.uk/~anguyen/"
-baseurl                  : "/grasp-anything" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "airvlab/grasp-anything" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "assets/images/teaser.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"

@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Official Repository for Grasp-Anything dataset"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Foundation models such as ChatGPT have made significant strides in robotic tasks due to their universal representation of real-world domains. In this paper, we leverage foundation models to tackle grasp detection, a persistent challenge in robotics with broad industrial applications. Despite numerous grasp datasets, their object diversity remains limited compared to real-world figures. Fortunately, foundation models possess an extensive repository of real-world knowledge, including objects we encounter in our daily lives. As a consequence, a promising solution to the limited representation in previous grasp datasets is to harness the universal knowledge embedded in these foundation models. We present Grasp-Anything, a new large-scale grasp dataset synthesized from foundation models to implement this solution. Grasp-Anything excels in diversity and magnitude, boasting 1M samples with text descriptions and more than 3M objects, surpassing prior datasets. Empirically, we show that Grasp-Anything successfully facilitates zero-shot grasp detection on vision-based tasks and real-world robotic experiments.
 
 A data-driven personal website
 ======

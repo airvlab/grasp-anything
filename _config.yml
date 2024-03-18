@@ -12,7 +12,7 @@ title                    : "Grasp-Anything"
 title_separator          : "-"
 name                     : &name "AI & Robot Vision Lab "
 description              : &description "University of Liverpool"
-url                      : https://airvlab.github.io/grasp-anything/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://airvlab.github.io/grasp-anything # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/airvlab/grasp-anything"
 
@@ -21,10 +21,10 @@ repository               : "https://github.com/airvlab/grasp-anything"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  # avatar           : "profile.png"
+  name             : "AI & Robot Vision Lab"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "University of Liverpool"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL

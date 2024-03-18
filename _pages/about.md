@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Official Repository for Grasp-Anything dataset"
+title: "Official Webpage for Grasp-Anything dataset"
 author_profile: true
 redirect_from: 
   - /about/

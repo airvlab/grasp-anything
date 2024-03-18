@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "AI & Robot Vision Lab"
 description              : # 
-url                      : "https://www.csc.liv.ac.uk/~anguyen/"
+url                      : # "https://www.csc.liv.ac.uk/~anguyen/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "assets/images/teaser.png"
@@ -115,7 +115,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.csc.liv.ac.uk/~anguyen/"
+      # url: "https://www.csc.liv.ac.uk/~anguyen/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

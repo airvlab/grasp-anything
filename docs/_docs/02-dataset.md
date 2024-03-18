@@ -1,5 +1,5 @@
 ---
-title: "Structure"
+title: "Dataset"
 permalink: /docs/dataset/
 excerpt: "The Grasp-Anything dataset."
 last_modified_at: 2024-03-18T15:19:22-04:00

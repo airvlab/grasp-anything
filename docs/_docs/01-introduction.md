@@ -1,6 +1,6 @@
 ---
 title: "Quick-Start Guide"
-permalink: /docs/quick-start-guide/
+permalink: /docs/introduction/
 excerpt: "How to quickly install and setup Grasp-Anything."
 last_modified_at: 2024-03-18T08:48:05-04:00
 redirect_from:

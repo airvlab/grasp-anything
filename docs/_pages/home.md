@@ -9,6 +9,6 @@ header:
     - label: "<i class='fas fa-download'></i> Download now"
       url: "/docs/introduction/"
 excerpt: >
-  Large-scale Grasp Dataset from Foundation Models.<br />
+  Large-scale Grasp Dataset from Foundation Models<br />
   <!--small><a href="https://github.com/andvg3/Grasp-Anything">Latest release (TBD)</a></small-->
 ---

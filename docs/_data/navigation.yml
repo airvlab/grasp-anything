@@ -44,10 +44,14 @@ docs:
     children:
       - title: "Introduction"
         url: /docs/introduction/
-      - title: "Dataset"
-        url: /docs/dataset/
+      - title: "Paper"
+        url: /docs/paper/
       - title: "Code"
         url: /docs/code/
+      - title: "Download"
+        url: /docs/download/
+      - title: "License"
+        url: /docs/license/
   #     - title: "Upgrading"
   #       url: /docs/upgrading/
   # - title: Customization

@@ -1,11 +1,12 @@
 ---
 title: "Dataset"
-permalink: /docs/dataset/
+permalink: /docs/paper/
 excerpt: "The Grasp-Anything dataset."
 last_modified_at: 2024-03-18T15:19:22-04:00
 ---
 
-Dataset will be released very soon!
+List of related papers:
+
 
 <!-- ```bash
 minimal-mistakes

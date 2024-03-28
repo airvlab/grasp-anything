@@ -30,6 +30,10 @@ main:
   #   url: /collection-archive/
   - title: "Paper"
     url: /docs/paper/
+  - title: "Code"
+    url: /docs/code/
+  - title: "Download"
+    url: /docs/download/
   - title: "License"
     url: /docs/license/
 

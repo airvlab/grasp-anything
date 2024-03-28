@@ -22,12 +22,6 @@ foo:
 main:
   - title: "Introduction"
     url: /docs/introduction/
-  #- title: "About"
-  #  url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
   - title: "Paper"
     url: /docs/paper/
   - title: "Code"

@@ -34,8 +34,6 @@ main:
     url: /docs/code/
   - title: "Download"
     url: /docs/download/
-  - title: "License"
-    url: /docs/license/
 
 
 # documentation links
@@ -50,8 +48,6 @@ docs:
         url: /docs/code/
       - title: "Download"
         url: /docs/download/
-      - title: "License"
-        url: /docs/license/
   #     - title: "Upgrading"
   #       url: /docs/upgrading/
   # - title: Customization

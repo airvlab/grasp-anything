@@ -1,8 +1,7 @@
 ---
-title: "Dataset"
+title: "Relatd Papers"
 permalink: /docs/paper/
-excerpt: "The Grasp-Anything dataset."
-last_modified_at: 2024-03-18T15:19:22-04:00
+excerpt: "Related papers."
 ---
 
 List of related papers:

@@ -19,7 +19,7 @@ feature_row:
     url: "/docs/introduction/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/homepage-zero-shot.png
+  - image_path: /assets/images/homepage-zero-shot.jpg
     alt: "zero shot"
     title: "Zero shot learning"
     excerpt: "Our dataset improves in about 9-29% over other datasets.."

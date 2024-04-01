@@ -7,7 +7,7 @@ excerpt: "Download."
 License: [Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/airvlab/grasp-anything/blob/main/LICENSE)
 
 
-## Access (under construction, please DO NOT use)
+## Data access (under construction, please DO NOT use)
 <form
   action="https://formspree.io/f/mjvnapag"
   method="POST"

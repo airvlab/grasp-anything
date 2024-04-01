@@ -23,14 +23,14 @@ feature_row:
     alt: "zero shot"
     title: "Zero shot learning"
     excerpt: "Our dataset improves in about 9-29% over other datasets."
-    url: "/docs/layouts/"
+    url: "/docs/grasp-anything/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/homepage-lang-driven-demo.png
     alt: "language-driven grasp"
     title: "Language-guided grasp"
     excerpt: "Our dataset also enables the grasping of objects following natural language instructions."
-    url: "/docs/introduction/"
+    url: "/docs/grasp-anything-pp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"     
 ---

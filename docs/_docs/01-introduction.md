@@ -7,11 +7,11 @@ redirect_from:
 toc: true
 ---
 
-Foundation models such as ChatGPT have made significant strides in robotic tasks due to their universal representation of real-world domains. In this paper, we leverage foundation models to tackle grasp detection, a persistent challenge in robotics with broad industrial applications. Despite numerous grasp datasets, their object diversity remains limited compared to real-world figures. Fortunately, foundation models possess an extensive repository of real-world knowledge, including objects we encounter in our daily lives. As a consequence, a promising solution to the limited representation in previous grasp datasets is to harness the universal knowledge embedded in these foundation models. We present Grasp-Anything, a new large-scale grasp dataset synthesized from foundation models to implement this solution. Grasp-Anything excels in diversity and magnitude, boasting 1M samples with text descriptions and more than 3M objects, surpassing prior datasets. Empirically, we show that Grasp-Anything successfully facilitates zero-shot grasp detection on vision-based tasks and real-world robotic experiments.
+Grasp-Anything introduces a new dataset synthesized from foundation models, targeting the challenge of grasp detection in robotics. With **1 million** samples and **3 million** diverse objects, it significantly surpasses previous datasets in *diversity*, facilitating advanced zero-shot and language-driven grasp detection in both simulated and real-world settings.
 
 ## Demonstration
 <video width="100%" controls>
-  <source src="/assets/images/ICRA24_0520_VI_fi_compressed.mp4" type="video/mp4">
+  <source src="/docs/assets/images/ICRA24_0520_VI_fi_compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

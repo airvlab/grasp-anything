@@ -29,7 +29,7 @@ feature_row:
   - image_path: /assets/images/homepage-lang-driven-demo.png
     alt: "language-driven grasp"
     title: "Language-driven grasp detection"
-    excerpt: ""
+    excerpt: "Our dataset also enables the grasping of objects following natural language instructions."
     url: "/docs/introduction/"
     btn_class: "btn--primary"
     btn_label: "Learn more"     

@@ -38,11 +38,11 @@ docs:
         url: /docs/introduction/
         children:
           - title: "Grasp-Anything"
-            url: /docs/grasp-anything
+            url: /docs/grasp-anything/
           - title: "Grasp-Anything++"
-            url: /docs/grasp-anything-pp
+            url: /docs/grasp-anything-pp/
           - title: "Grasp-Anything-6D"
-            url: /docs/grasp-anything-6d
+            url: /docs/grasp-anything-6d/
       - title: "Paper"
         url: /docs/paper/
       - title: "Code"

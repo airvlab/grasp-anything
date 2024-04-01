@@ -36,19 +36,20 @@ docs:
     children:
       - title: "Introduction"
         url: /docs/introduction/
-        children:
-          - title: "Grasp-Anything"
-            url: /docs/grasp-anything/
-          - title: "Grasp-Anything++"
-            url: /docs/grasp-anything-pp/
-          - title: "Grasp-Anything-6D"
-            url: /docs/grasp-anything-6d/
-      - title: "Paper"
+      - title: "Papers"
         url: /docs/paper/
       - title: "Code"
         url: /docs/code/
       - title: "Download"
         url: /docs/download/
+  - title: Datasets
+    children:
+      - title: "Grasp-Anything"
+        url: /docs/grasp-anything/
+      - title: "Grasp-Anything++"
+        url: /docs/grasp-anything-pp/
+      - title: "Grasp-Anything-6D"
+        url: /docs/grasp-anything-6d/
   #     - title: "Upgrading"
   #       url: /docs/upgrading/
   # - title: Customization

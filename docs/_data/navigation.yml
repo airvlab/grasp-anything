@@ -22,7 +22,7 @@ foo:
 main:
   - title: "Introduction"
     url: /docs/introduction/
-  - title: "Paper"
+  - title: "Papers"
     url: /docs/paper/
   - title: "Code"
     url: /docs/code/

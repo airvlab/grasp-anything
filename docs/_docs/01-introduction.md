@@ -11,6 +11,7 @@ Foundation models such as ChatGPT have made significant strides in robotic tasks
 
 ## Demonstration
 <video width="100%" controls>
-  <source src="https://owncloud.tuwien.ac.at/index.php/s/JqydE4HhrnQ7J4D/download" type="video/mp4">
+  <source src="assets/images/ICRA24_0520_VI_fi_compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+

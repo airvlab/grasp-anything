@@ -12,25 +12,25 @@ excerpt: >
   Large-scale Grasp Dataset from Foundation Models<br />
   <!--small><a href="https://github.com/andvg3/Grasp-Anything">Latest release (TBD)</a></small-->
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/homepage-num-objects.png
+    alt: "diversed"
+    title: "Diversed objects"
+    excerpt: "Grasp-Anything outperforms other datasets in terms of object diversity."
+    url: "/docs/introduction/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+  - image_path: /assets/images/homepage-zero-shot.png
+    alt: "zero shot"
+    title: "Zero shot learning"
+    excerpt: "Our dataset improves in about 9-29% over other datasets.."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+  - image_path: /assets/images/homepage-lang-driven-demo.png
+    alt: "language-driven grasp"
+    title: "Language-driven grasp detection"
+    excerpt: ""
+    url: "/docs/introduction/"
     btn_class: "btn--primary"
     btn_label: "Learn more"     
 ---

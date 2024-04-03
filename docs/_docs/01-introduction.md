@@ -11,19 +11,23 @@ Welcome to the official webpage of the Grasp-Anything research project, where we
 ## Dataset Comparison
 ![Dataset summarization](https://github.com/airvlab/grasp-anything/assets/140178004/ed30e350-d2ec-49ca-90bd-13471a46d3b9)
 
+<p align="center">
+  <img src="../assets/images/intro-dataset-comparison.png" alt="dataset_comparison" style="width: 100%;" />
+</p>
+
 Our Grasp-Anything dataset uniquely offers *universality*, featuring a wide range of everyday objects in natural arrangements, unlike other benchmarks limited by object selection and controlled settings. To assess the diversity of object categories in our dataset, we leverage 300 categories of LVIS [1] dataset and identify 300 candidate objects from Grasp-Anything for each category using a pretrained classification model [2], a process we replicate with other datasets. It surpasses competitors in *number of objects* and *number of samples*.
 
 ## Grasp-Anything Statistics
 
 <p align="center">
-  <img src="https://github.com/airvlab/grasp-anything/assets/140178004/0bceae02-b2b3-46b4-976e-ba533118aba5" alt="pos-tags" style="width: 50%;" />
-  <img src="https://github.com/airvlab/grasp-anything/assets/140178004/c6d13578-10c0-4928-8255-3bdf16ec824a" alt="num_cats" style="width: 48%;" />
+  <img src="../assets/images/pos-tags.png" alt="pos-tags" style="width: 50%;" />
+  <img src="../assets/images/num_cats.png" alt="num_cats" style="width: 48%;" />
 </p>
 
 To categorize words in a text according to their grammatical roles and syntactic functions, we extract the POS tags in our dataset and visualize them in the above figure. Our scene descriptions corpus utilizes a wide range of words to describe scene arrangements. In addition, we also compare object shape distributions between Grasp-Anything and Jacquard. The outcome implies that objects in Grasp-Anything span over a greater area than Jacquard's, indicating a greater degree of shape diversity.
 
 <p align="center">
-  <img src="https://github.com/airvlab/grasp-anything/assets/140178004/2af94fd9-8672-4956-867c-499d4bebfa97" alt="shape_visualization" style="width: 80%;" />
+  <img src="../assets/images/shape_visualization.png" alt="shape_visualization" style="width: 80%;" />
 </p>
 
 

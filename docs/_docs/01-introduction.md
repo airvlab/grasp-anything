@@ -9,8 +9,6 @@ toc: true
 Welcome to the official webpage of the Grasp-Anything research project, where we explore the frontier of robotic grasp detection through the lens of advanced foundation models. Our project represents a pivotal shift in how large-scale grasp datasets are synthesized and utilized in the realm of robotics.
 
 ## Dataset Comparison
-![Dataset summarization](https://github.com/airvlab/grasp-anything/assets/140178004/ed30e350-d2ec-49ca-90bd-13471a46d3b9)
-
 <p align="center">
   <img src="../assets/images/intro-dataset-comparison.png" alt="dataset_comparison" style="width: 100%;" />
 </p>

@@ -14,7 +14,7 @@ Welcome to the official webpage of the Grasp-Anything research project, where we
 Our Grasp-Anything dataset uniquely offers *universality*, featuring a wide range of everyday objects in natural arrangements, unlike other benchmarks limited by object selection and controlled settings. To assess the diversity of object categories in our dataset, we leverage 300 categories of LVIS [1] dataset and identify 300 candidate objects from Grasp-Anything for each category using a pretrained classification model [2], a process we replicate with other datasets. It surpasses competitors in *number of objects* and *number of samples*.
 
 <p align="center">
-  <img src="https://github.com/airvlab/grasp-anything/assets/140178004/308e508d-1d5e-4324-81b4-c5428f345c9b" alt="number_of_objects" style="width: 48%;" />
+  <img src="https://github.com/airvlab/grasp-anything/assets/140178004/308e508d-1d5e-4324-81b4-c5428f345c9b" alt="number_of_objects" style="width: 60%;" />
 </p>
 
 In a log-scale graph comparing object counts, the Grasp-Anything dataset stands out for its significantly larger diversity of objects than seen in other datasets.
@@ -28,7 +28,10 @@ In a log-scale graph comparing object counts, the Grasp-Anything dataset stands 
 
 To categorize words in a text according to their grammatical roles and syntactic functions, we extract the POS tags in our dataset and visualize them in the above figure. Our scene descriptions corpus utilizes a wide range of words to describe scene arrangements. In addition, we also compare object shape distributions between Grasp-Anything and Jacquard. The outcome implies that objects in Grasp-Anything span over a greater area than Jacquard's, indicating a greater degree of shape diversity.
 
-![shape_visualization](https://github.com/airvlab/grasp-anything/assets/140178004/2af94fd9-8672-4956-867c-499d4bebfa97)
+<p align="center">
+  <img src="https://github.com/airvlab/grasp-anything/assets/140178004/2af94fd9-8672-4956-867c-499d4bebfa97" alt="shape_visualization" style="width: 80%;" />
+</p>
+
 
 ## Stay Updated
 

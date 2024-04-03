@@ -8,7 +8,7 @@ toc: true
 ---
 Welcome to the official webpage of the Grasp-Anything research project, where we explore the frontier of robotic grasp detection through the lens of advanced foundation models. Our project represents a pivotal shift in how large-scale grasp datasets are synthesized and utilized in the realm of robotics.
 
-## Comparison with Related Datasets
+## Dataset Comparison
 ![Dataset summarization](https://github.com/airvlab/grasp-anything/assets/140178004/ed30e350-d2ec-49ca-90bd-13471a46d3b9)
 
 Our Grasp-Anything dataset uniquely offers *universality*, featuring a wide range of everyday objects in natural arrangements, unlike other benchmarks limited by object selection and controlled settings. To assess the diversity of object categories in our dataset, we leverage 300 categories of LVIS [1] dataset and identify 300 candidate objects from Grasp-Anything for each category using a pretrained classification model [2], a process we replicate with other datasets. It surpasses competitors in *number of objects* and *number of samples*.

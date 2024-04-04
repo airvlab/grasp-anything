@@ -6,7 +6,7 @@ redirect_from:
   - /theme-setup/
 toc: true
 ---
-Welcome to Grasp-Anything project! We explore the frontier of robotic grasp detection through the lens of foundation models. Our project represents a <strong>data centric</strong> approach for grasp detection.
+Welcome to Grasp-Anything project! We tackle grasp detection by utilizing foundation models. Our project represents a <strong>data centric</strong> approach for grasp detection.
 
 ## Dataset Comparison
 <p align="center">
@@ -31,7 +31,7 @@ To categorize words in a text according to their grammatical roles and syntactic
 
 ## Stay Updated
 
-As our research progresses, this website will be continuously updated with the latest papers, datasets, and tools. We encourage you to bookmark this page and check back regularly for updates.
+This website will be continuously updated with the latest papers, datasets, and code. We encourage you to check back regularly for updates.
 
 
 

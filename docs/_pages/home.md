@@ -22,14 +22,14 @@ feature_row:
   - image_path: /assets/images/homepage-zero-shot.png
     alt: "zero shot"
     title: "Zero-shot learning"
-    excerpt: "Our dataset enables zero-shot learning and improves over other datasets."
+    excerpt: "Our dataset enables zero-shot learning from its large-scale nature."
     url: "/docs/grasp-anything/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/homepage-lang-driven-demo.png
     alt: "language-driven grasp"
     title: "Language-driven grasping"
-    excerpt: "Our dataset enables robots to grasp objects based on language commands."
+    excerpt: "Our dataset allows robots to grasp objects based on language commands."
     url: "/docs/grasp-anything-pp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"     

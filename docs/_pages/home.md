@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/grasp-anything-teaser.png
   actions:
-    - label: "<i class='fas fa-download'></i> Download now"
+    - label: "<i class='fas fa-download'></i> Download"
       url: "/docs/download/"
 excerpt: >
   Large-scale Grasp Dataset from Foundation Models<br />

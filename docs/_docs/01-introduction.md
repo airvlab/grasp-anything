@@ -22,7 +22,7 @@ Grasp-Anything offers *universality*, featuring a wide range of everyday objects
   <img src="../../assets/images/homepage-num-objects.png" alt="num-objects" style="width: 49%;" />
 </p>
 
-Grasp-Anything contains over four times as many samples as related datasets, showcasing its significantly greater degree of object diversity. This is further evidenced by the number of objects and coverage of nearly double the LVIS categories [1] compared to other datasets.
+Grasp-Anything contains over four times as many samples as related datasets and has a greater degree of object diversity, which is evidenced by the number of objects and coverage of nearly double the LVIS categories [[1]](#references) compared to other datasets.
 
 <p align="center">
   <img src="../../assets/images/pos-tags.png" alt="pos-tags" style="width: 50%;" />
@@ -43,4 +43,5 @@ This website will be continuously updated with the latest papers, datasets, and 
 
 
 ## References
-[//]: # [1] Gupta, A., Dollar, P., & Girshick, R. (2019). Lvis: A dataset for large vocabulary instance segmentation. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 5356-5364).
+<a name="references"></a>
+- [1] Gupta, A., Dollar, P., & Girshick, R. (2019). Lvis: A dataset for large vocabulary instance segmentation. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 5356-5364).

@@ -18,11 +18,18 @@ Grasp-Anything offers *universality*, featuring a wide range of everyday objects
 ## Statistics
 
 <p align="center">
-  <img src="../../assets/images/pos-tags.png" alt="pos-tags" style="width: 50%;" />
-  <img src="../../assets/images/num_cats.png" alt="num_cats" style="width: 48%;" />
+  <img src="../../assets/images/homepage-num-samples.png" alt="num-samples" style="width: 50%;" />
+  <img src="../../assets/images/homepage-num-objects.png" alt="num-objects" style="width: 48%;" />
 </p>
 
-To categorize words in a text according to their grammatical roles and syntactic functions, we extract the POS tags in our dataset and visualize them in the above figure. Our scene descriptions corpus utilizes a wide range of words to describe scene arrangements. In addition, we also compare object shape distributions between Grasp-Anything and Jacquard. The outcome implies that objects in Grasp-Anything span over a greater area than Jacquard's, indicating a greater degree of shape diversity.
+Grasp-Anything contains over four times as many samples as related datasets, showcasing its significantly greater degree of object diversity. This is further evidenced by the number of objects and coverage of nearly double the LVIS categories [1] compared to other datasets.
+
+<p align="center">
+  <img src="../../assets/images/pos-tags.png" alt="pos-tags" style="width: 50%;" />
+  <img src="../../assets/images/num_cats.png" alt="num-cats" style="width: 48%;" />
+</p>
+
+We study the text's grammatical roles and syntactic functions by extracting the POS tags in our dataset, which is visualized in the figure above, highlighting a diverse vocabulary in scene descriptions. In addition, by comparing the object shape distributions between Grasp-Anything and Jacquard, we demonstrate that Grasp-Anything covers a wider area, suggesting a higher level of shape diversity.
 
 <p align="center">
   <img src="../../assets/images/shape_visualization.png" alt="shape_visualization" style="width: 80%;" />
@@ -37,5 +44,3 @@ This website will be continuously updated with the latest papers, datasets, and 
 
 ## References
 [//]: # [1] Gupta, A., Dollar, P., & Girshick, R. (2019). Lvis: A dataset for large vocabulary instance segmentation. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 5356-5364).
-
-[//]: # [2] Zhong, Y., Yang, J., Zhang, P., Li, C., Codella, N., Li, L. H., ... & Gao, J. (2022). Regionclip: Region-based language-image pretraining. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 16793-16803).

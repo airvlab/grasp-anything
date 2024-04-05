@@ -44,4 +44,4 @@ This website will be continuously updated with the latest papers, datasets, and 
 
 ## References
 <a name="references"></a>
-- [1] Gupta, A., Dollar, P., & Girshick, R. (2019). Lvis: A dataset for large vocabulary instance segmentation. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 5356-5364).
+- [1] Gupta, A., Dollar, P., & Girshick, R. Lvis: A dataset for large vocabulary instance segmentation. In CVPR, 2019.

@@ -18,8 +18,8 @@ Grasp-Anything offers *universality*, featuring a wide range of everyday objects
 ## Statistics
 
 <p align="center">
-  <img src="../../assets/images/homepage-num-samples.png" alt="num-samples" style="width: 50%;" />
-  <img src="../../assets/images/homepage-num-objects.png" alt="num-objects" style="width: 48%;" />
+  <img src="../../assets/images/homepage-num-samples.png" alt="num-samples" style="width: 49%;" />
+  <img src="../../assets/images/homepage-num-objects.png" alt="num-objects" style="width: 50%;" />
 </p>
 
 Grasp-Anything contains over four times as many samples as related datasets, showcasing its significantly greater degree of object diversity. This is further evidenced by the number of objects and coverage of nearly double the LVIS categories [1] compared to other datasets.

@@ -6,6 +6,10 @@ excerpt: "Related papers."
 
 List of related papers:
 
+- [1] Vuong, A. D., Vu, M. N., Le, H., Huang, B., Huynh, B., Vo, T., ... & Nguyen, A. Grasp-anything: Large-scale grasp dataset from foundation models. In ICRA, 2024.
+
+- [2] Vuong, A. D., Vu, M. N., Huang, B., N. Nguyen, H. Le, Vo, T., & Nguyen, A. Language-driven Scene Synthesis using Multi-conditional Diffusion Model. In CVPR, 2024.
+
 
 <!-- ```bash
 minimal-mistakes

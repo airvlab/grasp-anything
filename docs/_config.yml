@@ -123,10 +123,10 @@ footer:
        icon: "fab fa-fw fa-github"
        url: "https://github.com/airvlab"
      - label: "Code"
-       icon: "fa-solid fa-code"
+       icon: "fab fa-fw fa-code"
        url: "https://andvg3.github.io/"
      - label: "Contact"
-       icon: "fa-regular fa-message"
+       icon: "fab fa-fw fa-message"
        url: "https://www.csc.liv.ac.uk/~anguyen/"
        
 #     - label: "Instagram"

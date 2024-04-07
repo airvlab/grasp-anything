@@ -100,7 +100,7 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : ""
   bio              : "University of Liverpool"
-  location         : "Liverpool L69 3BX, United Kingdom"
+  location         : "United Kingdom"
   links:
     # - label: "Made Mistakes"
     #   icon: "fas fa-fw fa-link"

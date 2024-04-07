@@ -22,14 +22,14 @@ Grasp-Anything offers *universality*, featuring a wide range of everyday objects
   <img src="../../assets/images/homepage-num-objects.png" alt="num-objects" style="width: 49%;" />
 </p>
 
-Grasp-Anything contains over four times as many samples as related datasets and has a greater degree of object diversity, which is evidenced by the number of objects and coverage of nearly double the LVIS categories [[1]](#references) compared to other datasets.
+Grasp-Anything significantly outperforms other datasets in terms of number of samples and number of categories.
 
 <p align="center">
   <img src="../../assets/images/pos-tags.png" alt="pos-tags" style="width: 50%;" />
   <img src="../../assets/images/num_cats.png" alt="num-cats" style="width: 48%;" />
 </p>
 
-We study the text's grammatical roles and syntactic functions by extracting the POS tags in our dataset, which is visualized in the figure above, highlighting a diverse vocabulary in scene descriptions. In addition, by comparing the object shape distributions between Grasp-Anything and Jacquard, we demonstrate that Grasp-Anything covers a wider area, suggesting a higher level of shape diversity.
+The POS tags in our dataset are visualized in the figure above, highlighting a diverse vocabulary in scene descriptions. By comparing the object shape distributions between Grasp-Anything and Jacquard dataset, Grasp-Anything covers a wider area, suggesting a higher level of shape diversity.
 
 <p align="center">
   <img src="../../assets/images/shape_visualization.png" alt="shape_visualization" style="width: 80%;" />
@@ -38,10 +38,4 @@ We study the text's grammatical roles and syntactic functions by extracting the 
 
 ## Stay Updated
 
-This website will be continuously updated with the latest papers, datasets, and code. We encourage you to check back regularly for updates.
-
-
-
-## References
-<a name="references"></a>
-- [1] Gupta, A., Dollar, P., & Girshick, R. Lvis: A dataset for large vocabulary instance segmentation. In CVPR, 2019.
+This website will be continuously updated with the latest papers, datasets, and code. Please check back regularly for updates.

@@ -1,6 +1,6 @@
 # New Paper Submission Template
 
-Thank you for considering to add your paper to our list of related papers using the Grasp-anything dataset. To ensure a smooth inclusion process, please follow the guidelines below when submitting your pull request.
+Thank you for considering to add your paper to our list of related papers using the Grasp-anything dataset. To ensure a swift inclusion process, please follow the guidelines below when submitting your pull request.
 
 ## Submission Checklist:
 
@@ -24,4 +24,4 @@ Please replace the placeholders (in square brackets or italics) with the actual 
 
 - [First Author](https://example.com), Second Author, Third Author. *Title of the Paper*. In Conference Name, Year. [[Code]](https://github.com/example/repo) [[Project]](https://example.com/project-page)
 
-Thank you for contributing to the Grasp-anything project! Your efforts help to enrich our community and resources.
+Thank you for contributing to the Grasp-anything project!

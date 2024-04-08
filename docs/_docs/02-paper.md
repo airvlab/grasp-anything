@@ -2,6 +2,7 @@
 title: "Related Papers"
 permalink: /docs/paper/
 excerpt: "Related papers."
+classes: wide
 ---
 
 List of papers using Grasp-anything dataset. 

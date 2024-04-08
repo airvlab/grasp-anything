@@ -1,5 +1,5 @@
 ---
-title: "Related Papers"
+# title: ""
 permalink: /docs/paper/
 excerpt: "Related papers."
 ---

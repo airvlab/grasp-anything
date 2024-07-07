@@ -48,8 +48,8 @@ docs:
         url: /docs/grasp-anything/
       - title: "Grasp-Anything++"
         url: /docs/grasp-anything-pp/
-  #    - title: "Grasp-Anything-6D"
-  #      url: /docs/grasp-anything-6d/
+     - title: "Grasp-Anything-6D"
+       url: /docs/grasp-anything-6d/
   #     - title: "Upgrading"
   #       url: /docs/upgrading/
   # - title: Customization

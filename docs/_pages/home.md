@@ -19,13 +19,13 @@ feature_row:
     url: "/docs/introduction/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/homepage-zero-shot.png
-    alt: "zero shot"
-    title: "Zero-shot Learning"
-    excerpt: "Our dataset enables zero-shot learning from its large-scale nature."
-    url: "/docs/grasp-anything/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+  # - image_path: /assets/images/homepage-zero-shot.png
+  #   alt: "zero shot"
+  #   title: "Zero-shot Learning"
+  #   excerpt: "Our dataset enables zero-shot learning from its large-scale nature."
+  #   url: "/docs/grasp-anything/"
+  #   btn_class: "btn--primary"
+  #   btn_label: "Learn more"
   - image_path: /assets/images/homepage-lang-driven-demo.png
     alt: "language-driven grasp"
     title: "Grasping with Language"

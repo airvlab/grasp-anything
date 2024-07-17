@@ -33,7 +33,7 @@ feature_row:
     url: "/docs/grasp-anything-pp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/homepage-grasp-anything-6dof.png
+  - image_path: /assets/images/homepage-grasp-anything-6d.png
     alt: "6-DoF Grasping"
     title: "6-DoF Grasping"
     excerpt: "Grasp-Anything-6D helps robots grasp objects in 3D environments."

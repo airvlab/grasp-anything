@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Download"
       url: "/docs/download/"
 excerpt: >
-  Large-scale Grasp Dataset from Foundation Models<br />
+  Large-scale Grasp Datasets from Foundation Models<br />
   <!--small><a href="https://github.com/andvg3/Grasp-Anything">Latest release (TBD)</a></small-->
 feature_row:
   - image_path: /assets/images/homepage-num-samples.png
@@ -32,7 +32,14 @@ feature_row:
     excerpt: "Our dataset allows robots to grasp objects based on language commands."
     url: "/docs/grasp-anything-pp/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"     
+    btn_label: "Learn more"
+  - image_path: /assets/images/homepage-grasp-anything-6d.png
+    alt: "6-DoF Grasping"
+    title: "6-DoF Grasping"
+    excerpt: "Grasp-Anything-6D helps robots grasp objects in 3D environments."
+    url: "/docs/grasp-anything-6d/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
